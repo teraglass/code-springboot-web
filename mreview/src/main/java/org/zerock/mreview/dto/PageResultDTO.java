@@ -1,4 +1,4 @@
-package org.zerock.board.dto;
+package org.zerock.mreview.dto;
 
 import lombok.Data;
 import org.springframework.data.domain.Page;
